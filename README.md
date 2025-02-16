@@ -2,7 +2,7 @@
 
 **`Game Developer`**
 
-I'm a student at Belarusian State University, passionate about Computer Games Industry. I specialize in developing efficient solutions to real-world problems through ML technologies. On my GitHub, you'll find a variety of projects connected BSU labs, articles and gaming pet-progects.
+I'm a student at Belarusian State University, passionate about Computer Games Industry. On my GitHub, you'll find a variety of projects connected BSU labs, articles and gaming pet-progects.
 
 <div> 
   <a href="nastya.kozlic.196@gmail.com">
