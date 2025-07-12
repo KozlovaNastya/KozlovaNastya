@@ -1,6 +1,6 @@
 # Hi, I am Kozlova Nastya!
 
-**`Game Developer`**
+**`Student`**
 
 I'm a student at Belarusian State University, passionate about Computer Games Industry. On my GitHub, you'll find a variety of projects connected BSU labs, articles and gaming pet-progects.
 
